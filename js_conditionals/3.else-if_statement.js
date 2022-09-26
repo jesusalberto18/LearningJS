@@ -7,3 +7,5 @@ if (age >= 18) {
 } else {
   document.write("Your age isn't right.")
 }
+
+//unfinished
